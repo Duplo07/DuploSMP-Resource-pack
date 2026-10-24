@@ -1,1 +1,1 @@
-# ghost-pack
+# DuploSMP Resource pack.
